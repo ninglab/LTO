@@ -28,5 +28,5 @@ Check `GeneralLLMs\README.MD` for detailed instructions
 ## Environments
 The environment requirements are in the file `environment.yml`.
 
-## Latent Space Storage
+## Storage Space for Latent Thoughts
 The files to store the latent representations may take up a large space. Make sure you have enough space on your file system.
